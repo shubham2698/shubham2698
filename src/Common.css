@@ -1,0 +1,48 @@
+.hmlf{
+
+    padding: 40px;
+    
+}
+.my-name{
+    color: #3498dc !important;
+
+}
+.btn-get-started{
+
+    border: 1px solid #3498dc;
+    border-radius: 50px;
+    padding: 10px 30px; 
+     
+}
+.btn-get-started:hover{
+
+    background-color:#3498dc ;
+    color: white;
+    transition: 0.3s ease-in-out;
+    
+}
+.animated{
+    
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+
+}
+@keyframes up-down{
+
+    0%{
+        transform: translateY(10px);
+    }
+    100%{
+
+        transform: translateY(-10px);
+    }
+}
+@-webkit-keyframes up-down{
+
+    0%{
+        transform: translateY(10px);
+    }
+    100%{
+
+        transform: translateY(-10px);
+    }
+}

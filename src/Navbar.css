@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish&display=swap");
+*{
+    font-family: Mulish;
+}
+.navbar{
+    background-color:#fff;
+}
+.navbar-brand{
+    font-size: 30px;
+}
+.nav-link{
+
+    font-size: 18px;
+}
+.nav-link:hover{
+    color: #3498db !important;
+    animation: 0.5s ease-in-out;
+}
+.menu-active{
+
+    border-bottom: 1px solid black;
+    animation: 1s ease-in-out;
+}
+.ms-auto{
+
+    margin-right: 10%;
+}

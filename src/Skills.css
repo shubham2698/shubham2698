@@ -1,0 +1,186 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish&display=swap");
+*{
+    font-family:Mulish ;
+    list-style-type: none;
+    padding: 0;
+}
+.skills{
+    width: 80%;
+    margin: 60px auto;
+    
+}
+.skills li{
+    margin: 20px 0;
+}
+.skills h1{
+
+    text-align: center;
+}
+.bar{
+    background: #353b48;
+    display: block;
+    height: 13px;
+    border: 1px solid rgba(0,0,0,0.3);
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 0 10px #2187e7b3;
+}
+.bar span{
+    height: 11px;
+    float: left;
+    background: #2187e7;
+}
+.html{
+    width: 90%;
+    animation: html 2s;   
+}
+.css{
+    width: 90%;
+    animation: css 2s;    
+}
+.php{
+    width: 70%;
+    animation: php 2s;    
+}
+.c{
+    width: 60%; 
+    animation: c 2s;   
+}
+.cpp{
+    width: 60%;
+    animation: cpp 2s;    
+}
+.python{
+    width: 50%;
+    animation: python 2s;    
+}
+.java{
+    width: 60%;
+    animation: java 2s;    
+}
+.mysql{
+    width: 80%;
+    animation: mysql 2s;    
+}
+.photoshop{
+    width: 90%;
+    animation: photoshop 2s;    
+}
+.bootsrap{
+    width: 80%;
+    animation: bootsrap 2s;    
+}
+.reactjs{
+    width: 40%;
+    animation: reactjs 2s;    
+}
+
+
+@keyframes html{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 90%;
+    }
+}
+@keyframes css{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 90%;
+    }
+}
+@keyframes php{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 70%;
+    }
+}
+@keyframes c{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 60%;
+    }
+}
+@keyframes cpp{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 60%;
+    }
+}
+@keyframes python{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 50%;
+    }
+}
+@keyframes java{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 60%;
+    }
+}
+@keyframes mysql{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 80%;
+    }
+}
+@keyframes photoshop{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 90%;
+    }
+}
+@keyframes bootsrap{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 80%;
+    }
+}
+@keyframes reactjs{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 40%;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .skills{
+        width: 300px;
+    }
+  }
+  @media only screen and (min-width: 768px) {
+    .skills{
+        width: 70%;
+    }
+
+  } 
+  @media only screen and (min-width: 992px) {
+    .skills{
+        width: 80%;
+    }
+  }
+
+  
+ 
