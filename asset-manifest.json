@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/shubham2698/static/css/main.581d18fb.chunk.css",
+    "main.js": "/shubham2698/static/js/main.b7c3f38a.chunk.js",
+    "main.js.map": "/shubham2698/static/js/main.b7c3f38a.chunk.js.map",
+    "runtime-main.js": "/shubham2698/static/js/runtime-main.440ef009.js",
+    "runtime-main.js.map": "/shubham2698/static/js/runtime-main.440ef009.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/shubham2698/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.95c77fc0.chunk.js": "/shubham2698/static/js/2.95c77fc0.chunk.js",
+    "static/js/2.95c77fc0.chunk.js.map": "/shubham2698/static/js/2.95c77fc0.chunk.js.map",
+    "index.html": "/shubham2698/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/shubham2698/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.581d18fb.chunk.css.map": "/shubham2698/static/css/main.581d18fb.chunk.css.map",
+    "static/js/2.95c77fc0.chunk.js.LICENSE.txt": "/shubham2698/static/js/2.95c77fc0.chunk.js.LICENSE.txt",
+    "static/media/affiliate-marketing.1993b944.jpg": "/shubham2698/static/media/affiliate-marketing.1993b944.jpg",
+    "static/media/bgf.a98b601a.png": "/shubham2698/static/media/bgf.a98b601a.png",
+    "static/media/social-media.abb5bac6.jpg": "/shubham2698/static/media/social-media.abb5bac6.jpg",
+    "static/media/webdesign.d2fdd01f.jpg": "/shubham2698/static/media/webdesign.d2fdd01f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.440ef009.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.95c77fc0.chunk.js",
+    "static/css/main.581d18fb.chunk.css",
+    "static/js/main.b7c3f38a.chunk.js"
+  ]
+}
